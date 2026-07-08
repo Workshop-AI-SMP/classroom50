@@ -1,4 +1,24 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "chatbot-llm",
+      "name": "Chatbot_LLM",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "template": {
+        "owner": "Workshop-AI-SMP",
+        "repo": "Chatbot_LLM",
+        "branch": "main"
+      },
+      "due": "2026-07-15T04:21:00Z",
+      "due_meta": {
+        "input": "2026-07-15T11:21:00",
+        "zone": "Asia/Jakarta",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      }
+    }
+  ]
 }
