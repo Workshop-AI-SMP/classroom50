@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Workshop AI",
+  "short_name": "workshop-ai",
+  "term": "",
+  "org": "Workshop-AI-SMP",
+  "team": {
+    "id": 18370997,
+    "slug": "classroom50-workshop-ai"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18370998,
+      "slug": "classroom50-workshop-ai-instructor"
+    },
+    "ta": {
+      "id": 18370999,
+      "slug": "classroom50-workshop-ai-ta"
+    }
+  }
+}
